@@ -3,7 +3,8 @@
 🚀 Passionate about coding and technology.
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/advay_0_15114)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](### 🌐 Socials:
+[![Discord](https://img.icons8.com/color/48/000000/discord-logo.png)](https://discord.com/users/advay_0_15114)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=github&logoColor=white)](https://pixel-home.netlify.app/)  
 
 ## 💻 Tech Stack:

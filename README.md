@@ -1,7 +1,7 @@
 # 🌟 About Me
 
 
-![About Me](https://github.com/user-attachments/assets/e22db15a-fada-4165-a899-505bfe3f0e43)
+![About Me](https://github.com/user-attachments/assets/e6945eb2-b4e8-4311-83ed-5ae10be74588)
 
 
 

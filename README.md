@@ -12,6 +12,7 @@
 ## 🌐 Socials
 [![Discord](https://img.icons8.com/color/48/000000/discord-logo.png)](https://discord.com/users/advay_0_15114)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=github&logoColor=white)](https://pixel-home.netlify.app/)  
+-📫 Reach me at my email- advaysingh12345@outlook.com
 
 ## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
@@ -26,7 +27,5 @@ Not yet. But coming 🔜
 -📚 I'm currently learning JavaScript.
 
 -💻 I'm currently working on JavaScript.
-
--📫 Reach me at my email- advaysingh12345@outlook.com
 
 ![My PFP](https://github.com/user-attachments/assets/5d0542aa-6fb6-48c8-828f-740a5961e856)

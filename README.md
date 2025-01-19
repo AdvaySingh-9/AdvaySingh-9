@@ -1,6 +1,8 @@
 # 🌟 About Me
-👋 Hi, I'm Advay Singh!  
-🚀 Passionate about coding and technology.
+
+
+https://github.com/user-attachments/assets/42259ea1-24a6-4000-8615-cf2a0b2df818
+
 
 ## 🌐 Socials
 [![Discord](https://img.icons8.com/color/48/000000/discord-logo.png)](https://discord.com/users/advay_0_15114)
@@ -22,4 +24,4 @@ Not yet. But coming 🔜
 
 -📫 Reach me at my email- advaysingh12345@outlook.com
 
-![IMG_20250105_185712](https://github.com/user-attachments/assets/5d0542aa-6fb6-48c8-828f-740a5961e856)
+![My PFP](https://github.com/user-attachments/assets/5d0542aa-6fb6-48c8-828f-740a5961e856)

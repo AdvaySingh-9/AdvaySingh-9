@@ -1,7 +1,8 @@
 # 🌟 About Me
 
 
-https://github.com/user-attachments/assets/42259ea1-24a6-4000-8615-cf2a0b2df818
+![About Me](https://github.com/user-attachments/assets/e22db15a-fada-4165-a899-505bfe3f0e43)
+
 
 
 ## 🌐 Socials

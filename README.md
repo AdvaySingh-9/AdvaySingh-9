@@ -1,9 +1,6 @@
 # 🌟 About Me
 
-
-![About Me](https://github.com/user-attachments/assets/e6945eb2-b4e8-4311-83ed-5ae10be74588)
-
-
+![About Me](https://raw.githubusercontent.com/AdvaySingh-9/AdvaySingh-9/main/About Me.svg)
 
 ## 🌐 Socials
 [![Discord](https://img.icons8.com/color/48/000000/discord-logo.png)](https://discord.com/users/advay_0_15114)

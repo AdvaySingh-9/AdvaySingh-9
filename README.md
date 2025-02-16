@@ -32,6 +32,9 @@ Not yet. But coming 🔜
 
 -📚 I'm currently learning JavaScript.
 
--💻 I'm currently working on JavaScript.
+## 🚀 My Awasome Projects 
 
+-👩‍💻 I am currently working on making my own AIs. It will be soon available😊. 
+
+## 📸 My Profile pic
 ![My PFP](https://github.com/user-attachments/assets/5d0542aa-6fb6-48c8-828f-740a5961e856)

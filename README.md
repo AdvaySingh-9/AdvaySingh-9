@@ -14,7 +14,7 @@
 
 [![Discord](https://img.icons8.com/color/48/000000/discord-logo.png)](https://discord.com/users/advay_0_15114)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=github&logoColor=white)](https://pixel-home.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=github&logoColor=white)](https://advay-portfolio.netlify.app/)
 
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:advaysingh12345@outlook.com)
 

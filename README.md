@@ -25,7 +25,7 @@
 ## Frameworks & Libraries
 
 ![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![NumPy](https://img.shields.io/github/stars/numpy/numpy?style=social)
+<img src="https://numpy.org/images/logo.svg" alt="NumPy Logo" width="120"/>
 
 ## Software and Tools
 

@@ -2,6 +2,7 @@
 
 
 # 🌟 About Me
+> HI, I am Advay 👋
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;AI/ML+Researcher;Always+learning+new+things;%20Programmer+Since+2023&center=true&width=380&height=45">
 

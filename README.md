@@ -35,11 +35,11 @@
 
 ## 📚 Learning
 
-- 1️⃣ Different libraries in Python.
+- Different libraries in Python.
 
 ## 🚀 My Awasome Projects 
 
--👩‍💻 I am currently working on making my own AIs. Here is the link of webiste- https://taskbot-ai-as.netlify.app . 
+- 👩‍💻 I am currently working on making my own AIs. Here is the link of webiste- https://taskbot-ai-as.netlify.app . 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdvaySingh-9&layout=compact&theme=dark&hide_border=true">
 

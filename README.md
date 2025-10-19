@@ -9,8 +9,8 @@
 ## 🌐 Social
 
 
-[![Discord](https://img.icons8.com/color/48/000000/discord-logo.png)](https://discord.com/users/advay_0_15114)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=github&logoColor=white)](https://advay-portfolio.netlify.app/)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/advay_0_15114)
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-9A4DFF?style=for-the-badge&logo=logoColor=white)](https://advay-portfolio.netlify.app/)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:advaysingh12345@outlook.com)
 
 ## 💻 Tech Stack
@@ -29,7 +29,7 @@
 
 ## Software and Tools
 
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=black)
+![VS Code](https://skillicons.dev/icons?i=vscode)
 ![GitHub](https://img.shields.io/badge/GitHub-%23327FC7.svg?logo=github&logoColor=black)
 
 

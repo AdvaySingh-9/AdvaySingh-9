@@ -11,7 +11,7 @@
 ## 🌐 Social
 
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/advay_0_15114)
-[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-9A4DFF?style=for-the-badge&logo=logoColor=white)](https://advay-portfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://advay-portfolio.netlify.app)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:advaysingh12345@outlook.com)
 ## 💻 Tech Stack
 
@@ -23,12 +23,15 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 ## Frameworks & Libraries
-![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-<img src="https://numpy.org/images/logo.svg" alt="NumPy Logo" width="40"/>
+![Discord.py](https://img.shields.io/badge/Discord.py-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 
 ## Software and Tools
-![VS Code](https://skillicons.dev/icons?i=vscode)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23327FC7.svg?logo=github&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 ## 📚 Learning
 
 - Different libraries in Python.

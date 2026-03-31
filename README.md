@@ -31,6 +31,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23327FC7.svg?logo=github&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat)](https://huggingface.co/Advay-Singh)
+[![Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle&logoColor=white)](https://www.kaggle.com/advaysingh2012)
 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=advaysingh-9&theme=tokyonight&hide_border=true)

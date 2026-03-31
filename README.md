@@ -32,18 +32,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23327FC7.svg?logo=github&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 📚 Learning
 
-- Different libraries in Python.
+![GitHub Streak](https://streak-stats.demolab.com/?user=advaysingh-9&theme=tokyonight&hide_border=true)
 
-## 🚀 My Awasome Projects 
 
-- 👩‍💻 I am currently working on making my own AIs. Here is the link of webiste- https://taskbot-ai-as.netlify.app . 
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdvaySingh-9&layout=compact&theme=dark&hide_border=true">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AdvaySingh-9&show_icons=true&theme=dark&hide_border=true">
-</p>
-
-<img src="https://raw.githubusercontent.com/SelfMadeSystem/SelfMadeSystem/main/wave-bottom.svg">

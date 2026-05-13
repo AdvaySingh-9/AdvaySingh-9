@@ -56,7 +56,7 @@ class AdvaySingh:
 
 ## Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode, windows" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 ## Libraries & Frameworks
 

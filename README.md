@@ -159,4 +159,3 @@ class AdvaySingh:
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:111827,100:1e293b"/>
 
 </div>
-````

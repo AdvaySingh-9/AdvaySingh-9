@@ -143,7 +143,7 @@ class AdvaySingh:
 
 [![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdvaySingh-9)
 
-[![Website](https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://taskbot-ai-as.netlify.app)
+[![Website](https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://advay-portfolio.netlify.app)
 
 </div>
 

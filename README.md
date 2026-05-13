@@ -56,7 +56,7 @@ class AdvaySingh:
 
 ## Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode, windows" />
 
 ## Libraries & Frameworks
 
@@ -65,7 +65,6 @@ class AdvaySingh:
 <img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge&logo=plotly&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kivy-111827?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%2FML-111827?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
 </p>
 
 </div>
@@ -95,20 +94,6 @@ class AdvaySingh:
 ✔ Open Source Contributions
 ✔ Scalable App Architecture
 ```
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdvaySingh-9&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdvaySingh-9&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-</div>
-
----
 
 # 🔥 Contribution Streak
 

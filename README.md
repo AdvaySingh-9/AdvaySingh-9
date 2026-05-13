@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Advay%20Singh&fontAlign=50&fontAlignY=40&color=0:0f172a,50:111827,100:1e293b&fontColor=38bdf8&desc=Python%20Developer%20%E2%80%A2%20AI%20Explorer%20%E2%80%A2%20Open%20Source%20Learner&descAlignY=62&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Python+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Projects+with+Kivy+and+Python;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Python+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Projects;Always+Learning+Something+New"/>
 
 <br/>
 
@@ -81,8 +81,6 @@ class AdvaySingh:
 | 🤖 **TaskBot** | AI-focused assistant & automation experiments |
 | 📱 **Kivy Applications** | Cross-platform mobile and desktop apps |
 | 🧠 **AI Experiments** | Learning and testing ML concepts |
-| 📚 **DSA Notes & Practice** | Structured learning for problem solving |
-| ⚡ **Python Utilities** | Automation tools and mini projects |
 
 </div>
 
@@ -91,10 +89,9 @@ class AdvaySingh:
 # 🎯 Learning Goals
 
 ```text
-✔ Advanced Python
-✔ Data Structures & Algorithms
-✔ Machine Learning Fundamentals
-✔ Better UI/UX Design
+✔ Master Python
+✔ Master Data Structures & Algorithms
+✔ Machine Learning, Deep Learning, Generative AI, Agentic AI, etc.
 ✔ Open Source Contributions
 ✔ Scalable App Architecture
 ```

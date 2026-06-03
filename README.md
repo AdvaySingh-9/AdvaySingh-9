@@ -65,6 +65,7 @@ class AdvaySingh:
 <img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge&logo=plotly&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kivy-111827?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=white">
 </p>
 
 </div>
